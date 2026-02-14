@@ -30,4 +30,4 @@ Implemented data preprocessing, tokenization, and fine-tuning using PyTorch and 
 Python, PyTorch, HuggingFace Transformers, BERT, NLP, Data Visualization
 
 ## Author
-Ayoub Ben-Yamina
+Ayoub Ben-Yamina.
